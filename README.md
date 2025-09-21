@@ -101,11 +101,12 @@ git push origin feature/your-feature
 This project is licensed under the MIT License – see the LICENSE
  file for details.
 
-🔗 References
+## 🔗 References
 
-Streamlit Documentation
-Digital Twin in Healthcare
-Pandas Documentation
-Plotly Documentation
+- **[Streamlit Documentation](https://docs.streamlit.io/)** – Official documentation for building interactive apps with Streamlit.  
+- **[Digital Twin in Healthcare](https://www.sciencedirect.com/topics/engineering/digital-twin)** – Overview and applications of digital twin technology in clinical trials.  
+- **[Pandas Documentation](https://pandas.pydata.org/docs/)** – Reference guide for data manipulation and analysis in Python.  
+- **[Plotly Documentation](https://plotly.com/python/)** – Guide for creating interactive visualizations and dashboards in Python.  
+
 
 
