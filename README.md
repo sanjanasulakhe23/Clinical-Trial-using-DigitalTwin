@@ -60,7 +60,7 @@ streamlit run app.py
 ```
 
 
-## project Structure 
+## 📂 Project Structure 
 ```clinical-trial-digital-twin/
 ├── app.py               # Main Streamlit app
 ├── data/                # Dataset files
@@ -70,7 +70,7 @@ streamlit run app.py
 └── README.md            # Project documentation
 ```
 
-##📊 Usage
+## 📊 Usage
 
 1.**Launch the app:**
 ```bash
@@ -85,7 +85,7 @@ streamlit run app.py
 
 
 
-##🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 
 **1.Fork the repository**
@@ -108,7 +108,7 @@ git push origin feature/your-feature
 
 
 
-##📜 License
+## 📜 License
 This project is licensed under the MIT License – see the LICENSE
  file for details.
 
