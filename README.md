@@ -70,7 +70,7 @@ streamlit run app.py
 └── README.md            # Project documentation
 ```
 
-#📊 Usage
+##📊 Usage
 
 1.**Launch the app:**
 ```bash
@@ -84,7 +84,8 @@ streamlit run app.py
 4.**Click on individual patients to see detailed trial eligibility and risk scores.**
 
 
-🤝 Contributing
+
+##🤝 Contributing
 Contributions are welcome!
 
 **1.Fork the repository**
@@ -105,9 +106,12 @@ git push origin feature/your-feature
 ```
 6.**Open a Pull Request**
 
-📜 License
+
+
+##📜 License
 This project is licensed under the MIT License – see the LICENSE
  file for details.
+
 
 ## 🔗 References
 
