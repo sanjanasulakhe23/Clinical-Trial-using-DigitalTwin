@@ -44,15 +44,20 @@ cd clinical-trial-digital-twin
  ```
 
 2.Create a virtual environment:
+```bash
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
+```
 
 3.Install dependencies:
+```bash
 pip install -r requirements.txt
-
+```
 4.Run the Streamlit app:
+```bash
 streamlit run app.py
+```
 
 
 project Structure 
@@ -66,46 +71,41 @@ clinical-trial-digital-twin/
 
 📊 Usage
 
-Launch the app:
-
+1.Launch the app:
+```bash
 streamlit run app.py
-
-
-Upload patient data (CSV or JSON).
-
-Explore risk analysis dashboards.
-
-Click on individual patients to see detailed trial eligibility and risk scores.
+```
+2.Upload patient data (CSV or JSON).
+3.Explore risk analysis dashboards.
+4.Click on individual patients to see detailed trial eligibility and risk scores.
 
 🤝 Contributing
-
 Contributions are welcome!
-
-Fork the repository
-
-Create a new branch (git checkout -b feature/your-feature)
-
-Make your changes
-
-Commit (git commit -m 'Add feature')
-
-Push (git push origin feature/your-feature)
-
-Open a Pull Request
+1.Fork the repository
+2.Create a new branch
+```bash
+git checkout -b feature/your-feature
+```
+3.Make your changes
+4.Commit:
+```bash
+git commit -m 'Add feature'
+```
+5.Push:
+```bash
+git push origin feature/your-feature
+```
+6.Open a Pull Request
 
 📜 License
-
 This project is licensed under the MIT License – see the LICENSE
  file for details.
 
 🔗 References
 
 Streamlit Documentation
-
 Digital Twin in Healthcare
-
 Pandas Documentation
-
 Plotly Documentation
 
 
