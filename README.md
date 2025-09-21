@@ -60,7 +60,7 @@ streamlit run app.py
 ```
 
 
-project Structure 
+## project Structure 
 clinical-trial-digital-twin/
 ├── app.py               # Main Streamlit app
 ├── data/                # Dataset files
