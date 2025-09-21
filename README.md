@@ -78,18 +78,23 @@ streamlit run app.py
 ```
 
 2.**Upload patient data (CSV or JSON).**
+
 3.**Explore risk analysis dashboards.**
+
 4.**Click on individual patients to see detailed trial eligibility and risk scores.**
 
 
 🤝 Contributing
 Contributions are welcome!
+
 **1.Fork the repository**
+
 2.**Create a new branch**
 ```bash
 git checkout -b feature/your-feature
 ```
 3.**Make your changes**
+
 4.**Commit:**
 ```bash
 git commit -m 'Add feature'
