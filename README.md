@@ -61,23 +61,26 @@ streamlit run app.py
 
 
 ## project Structure 
-clinical-trial-digital-twin/
+```clinical-trial-digital-twin/
 ├── app.py               # Main Streamlit app
 ├── data/                # Dataset files
 ├── models/              # Machine learning / digital twin models
 ├── utils/               # Helper functions
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
+```
 
-📊 Usage
+#📊 Usage
 
 1.Launch the app:
 ```bash
 streamlit run app.py
 ```
+```
 2.Upload patient data (CSV or JSON).
 3.Explore risk analysis dashboards.
 4.Click on individual patients to see detailed trial eligibility and risk scores.
+```
 
 🤝 Contributing
 Contributions are welcome!
