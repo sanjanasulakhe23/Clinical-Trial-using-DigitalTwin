@@ -36,7 +36,7 @@ Built with **Streamlit** for a clean, interactive, and user-friendly interface.
 
 ## 📥 Installation
 
-1. Clone the repository:
+1.Clone the repository:
 
 ```bash
 git clone https://github.com/username/clinical-trial-digital-twin.git
@@ -84,7 +84,7 @@ streamlit run app.py
 
 🤝 Contributing
 Contributions are welcome!
-1.**Fork the repository**
+**1.Fork the repository**
 2.**Create a new branch**
 ```bash
 git checkout -b feature/your-feature
